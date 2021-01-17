@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Kornokhau.github.io/rsschool-cv/cv
