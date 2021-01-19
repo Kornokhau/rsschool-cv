@@ -6,6 +6,8 @@
   * _skype_
 * *konakhauyahor@gmail.com* 
 * [_GitHub_](https://github.com/Kornokhau)
+* [Codewars](:https://www.codewars.com/users/Kornokhau/badges/micro)
+
 
 ## Обо мне: ##
 Восемь лет работы в одной компании в колективе с разными людьми помогли мне комуницировань и понимать командную работу.
