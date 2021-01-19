@@ -6,7 +6,7 @@
   * _skype_
 * *konakhauyahor@gmail.com* 
 * [_GitHub_](https://github.com/Kornokhau)
-* [Codewars](:https://www.codewars.com/users/Kornokhau/badges/micro)
+* [Codewars](https://www.codewars.com/users/Kornokhau/badges)
 
 
 ## Обо мне: ##
